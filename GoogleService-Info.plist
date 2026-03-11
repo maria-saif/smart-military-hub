@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDaQW3TnUfcxZM8ru47lEBQjHwzBL1XLmw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>682765376696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.maria.SmartMilitaryHub</string>
+	<key>PROJECT_ID</key>
+	<string>smartmilitaryhub</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartmilitaryhub.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:682765376696:ios:034889e8d3faf5fdeaa84d</string>
+</dict>
+</plist>
